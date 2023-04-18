@@ -1,0 +1,16 @@
+{
+  "name": "chatbot",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "chatbotSarufi",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "deogemini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sarufi": "^0.0.3"
+  }
+}
